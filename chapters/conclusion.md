@@ -19,3 +19,7 @@ The transition will not be easy. It will require courage, patience, and a willin
 This is the work of our time. It is the work of building the bridges, of weaving the networks, of planting the seeds of a regenerative future. It is not work that will be completed in our lifetimes, but it is work that we have the privilege to begin.
 
 The choice is ours. We can cling to the wreckage of a dying world, or we can turn our hands and our hearts to the task of building a new one. The blueprint is in our hands. The work begins now.
+
+---
+
+[Previous Chapter: Building the New Economy](./15_building_new_economy.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters)

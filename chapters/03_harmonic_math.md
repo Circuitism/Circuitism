@@ -37,3 +37,7 @@ How do we design this function? By focusing on two key principles:
 This is not about central planning. It is about designing the core mathematical function—the rules of the game, the incentives, the metrics of value—and then letting the system run. It is about creating an **attractor**, a state of dynamic equilibrium that the system naturally "wants" to settle into.
 
 The mathematics of Circuitism is the search for the formulas of life. It is the most important design challenge of our time: to write the code for a world that doesn't just grow, but thrives.
+
+---
+
+[Previous Chapter: Energy Science](./02_energy_science.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Emergent Biology](./04_emergent_biology.md)

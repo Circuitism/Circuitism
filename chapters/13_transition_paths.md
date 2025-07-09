@@ -35,3 +35,7 @@ The transition will be messy and unpredictable. It will be a time of great uncer
 *   **Courage:** The willingness to step outside of our comfort zones and to challenge the status quo, even when it is difficult or unpopular.
 
 The old world is dying. The new world is struggling to be born. Our task is not to predict the future, but to act as midwives for the world that is seeking to emerge. It is the work of building bridges, of weaving networks, of planting seeds that may not bear fruit in our lifetimes. It is the most important work of our time.
+
+---
+
+[Previous Chapter: Culture & Art](./12_culture_art.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Collapse & Traps](./14_collapse_traps.md)

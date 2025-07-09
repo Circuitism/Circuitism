@@ -36,3 +36,7 @@ When a high-trust network with a robust reputation system is in place, something
 *   **From Hierarchy to Holarchy:** Traditional top-down organizations are bottlenecks for intelligence. Information flows up, decisions flow down, and the wisdom of the front lines is lost. A Circuitist organization is designed to tap into collective intelligence. It uses decentralized decision-making frameworks, creates open channels for information flow, and empowers nodes at the edge of the network to sense and respond to their local environment.
 
 Our goal is to design social architectures that allow trust to be built, reputation to be earned, and collective intelligence to emerge. We must move beyond the sociology of division and control, and embrace the sociology of connection and coherence. We must engineer the architecture of trust.
+
+---
+
+[Previous Chapter: Anthropology](./05_anthropology.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Labor & Value](./07_labor_value.md)

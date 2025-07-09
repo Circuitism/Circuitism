@@ -31,3 +31,7 @@ This new paradigm creates a new and vital economic role: the **ecosystem steward
 The steward is not a government regulator or a corporate sustainability officer. They are an entrepreneur whose "business" is the health of a specific ecosystem. They might be paid to reforest a hillside, restore a wetland, or manage a fishery for long-term abundance. Their income is directly tied to the verifiable improvements in the ecological health of the system they are stewarding.
 
 This is the ultimate goal of a Circuitist economy: to create a system where the protection and regeneration of the living world is not a cost to be minimized, but the most direct and profitable pathway to creating value. It is about aligning the logic of human thriving with the logic of life itself.
+
+---
+
+[Previous Chapter: Governance](./09_governance.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Technology](./11_technology.md)

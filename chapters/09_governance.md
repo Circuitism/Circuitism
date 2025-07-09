@@ -31,3 +31,7 @@ The greatest danger to any governance system is the accumulation of power. Power
 *   **Decentralization:** Power is pushed to the edges of the network whenever possible, favoring local and bioregional decision-making over centralized control.
 
 The goal is not to create a perfect, utopian system. It is to create a system that is exceptionally good at learning from its mistakes. It is to build a collective nervous system that is fast, adaptive, and intelligent enough to navigate the turbulent waters of the 21st century.
+
+---
+
+[Previous Chapter: Innovation](./08_innovation.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Ecosystem Stewardship](./10_ecosystem_stewardship.md)

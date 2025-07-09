@@ -32,3 +32,7 @@ This is the digital infrastructure that enables the seamless flow of value throu
 These three organizational forms are the looms, shuttles, and threads of the new economy. The strategy is not to tear down the old fabric, but to weave the new one within it. We start by building a single commons-based venture. We connect it to a bioregional trust. We use the value-flow protocol to create a new circuit of exchange between them. Then we add another venture, and another.
 
 Slowly, patiently, we weave a new fabric of economic life that is more resilient, more equitable, and more alive than the one it replaces. This is not the work of a single hero or a single revolution. It is the distributed, decentralized work of millions of people, each weaving their own small patch of a new and more beautiful world.
+
+---
+
+[Previous Chapter: Collapse & Traps](./14_collapse_traps.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Conclusion](./conclusion.md)

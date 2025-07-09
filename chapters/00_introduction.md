@@ -27,3 +27,7 @@ The core principles of Circuitism are drawn not from political theory but from t
 This book will walk you through this new architecture, layer by layer. We will deconstruct the psychological drivers of our current broken systems and then build, from first principles, a new foundation. We will explore how to redesign labor, innovation, governance, and technology to align with the logic of flow. We will outline practical transition paths and the defenses needed to protect this new system from the traps that caused its predecessors to fail.
 
 This is not a utopian dream. It is a call to think like an engineer, a biologist, and a systems architect. It is an invitation to move beyond the tired cycles of blame and ideology and begin the necessary work of designing and building a civilization that is not just sustainable, but truly alive.
+
+---
+
+[Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Dark Psychology](./01_dark_psychology.md)

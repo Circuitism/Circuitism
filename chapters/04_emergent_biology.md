@@ -43,4 +43,8 @@ By adopting the logic of life, we can design human systems that are not just pro
 3.  **Seek Metabolic Balance:** Prioritize stability and health over infinite growth.
 4.  **Ensure Efficient Flow:** Create low-resistance pathways for energy and information.
 
-We must stop building machines and start cultivating ecosystems. This is the biological imperative of Circuitism. Uses biological metaphors to illustrate how human systems can self-regulate through continuous sensing and feedback.
+We must stop building machines and start cultivating ecosystems. This is the biological imperative of Circuitism.
+
+---
+
+[Previous Chapter: Harmonic Math](./03_harmonic_math.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Anthropology](./05_anthropology.md)

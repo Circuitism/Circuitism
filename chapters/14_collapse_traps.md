@@ -33,3 +33,7 @@ This is the belief that a technological "deus ex machina" will arrive just in ti
 *   **The Escape Route:** We must embrace a more sober and responsible relationship with technology, as outlined in Chapter 11. We must see technology as a tool to be wielded with wisdom, not as a savior to be worshipped. We must ground our hope not in a fantasy of technological salvation, but in our own capacity for collective action and mutual care.
 
 Navigating these traps requires a new kind of activism. It is not the loud, angry activism of protest, but the quiet, patient activism of the weaver, the gardener, and the bridge-builder. It is the work of creating pockets of health and sanity in a world that is increasingly chaotic. It is the work of demonstrating, at a human scale, that a different way is possible.
+
+---
+
+[Previous Chapter: Transition Paths](./13_transition_paths.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Building the New Economy](./15_building_new_economy.md)

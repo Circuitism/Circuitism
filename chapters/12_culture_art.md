@@ -31,3 +31,7 @@ Their job is to tend to the health of the cultural immune system. They are the d
 A society that values its artists is a society that values its own soul. A Circuitist economy would therefore find new ways to support its cultural producers, freeing them from the whims of the market and empowering them to do their essential work. This means moving beyond the speculative art market and toward models of community patronage, public funding for the arts, and a basic income for those who dedicate their lives to the health of our shared culture.
 
 Building a regenerative civilization is not just an engineering problem. It is an act of the imagination. It is the work of artists, poets, and myth-makers, as much as it is the work of scientists and engineers. It is the task of building a culture so beautiful, so meaningful, and so deeply connected to life that it becomes the new common sense.
+
+---
+
+[Previous Chapter: Technology](./11_technology.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Transition Paths](./13_transition_paths.md)

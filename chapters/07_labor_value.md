@@ -37,3 +37,7 @@ This redefinition of value leads to a new conception of work. We must move away 
 In a Circuitist economy, individuals would be rewarded not for showing up for a set number of hours, but for the verifiable, positive impacts they have on the network. A reputation system, as described in the previous chapter, would act as a dynamic, multi-dimensional resume, tracking one's contributions across various domains.
 
 This is not about replacing salaries with some vague notion of "goodwill." It is about building a sophisticated economic engine that is finally capable of seeing and valuing the work that truly matters. It is about creating an economy where the smartest thing you can do for yourself is to do something good for the system.
+
+---
+
+[Previous Chapter: Sociology](./06_sociology.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Innovation](./08_innovation.md)

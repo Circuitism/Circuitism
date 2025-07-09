@@ -29,3 +29,7 @@ The role of the innovator changes dramatically in this new model. They are no lo
 Their primary skill is not just technical brilliance, but the ability to see the whole system. They are pattern-recognizers, connectors, and weavers. They ask not, "What can I build?" but "What does this system need to become healthier?" They measure their success not by their market cap, but by the increased coherence, resilience, and regenerative capacity of the circuit they have touched.
 
 This is the true work of innovation. It is the patient, humble, and deeply creative task of helping the world find a more elegant way to be itself.
+
+---
+
+[Previous Chapter: Labor & Value](./07_labor_value.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Governance](./09_governance.md)

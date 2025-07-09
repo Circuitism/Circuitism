@@ -25,3 +25,7 @@ This framework demands a new kind of AI developer. No longer a mere machine lear
 They must be part biologist, part sociologist, part ethicist. They must ask not only "Can we build it?" but "Should we build it?" and "What are the second- and third-order consequences of building it?" Their primary responsibility is to the health of the whole, not the performance of the part.
 
 AI is not our savior. It is a mirror, reflecting our own values and intentions back at us with terrifying amplification. By changing our values, by shifting our intention from extraction to regeneration, we can begin to build AI that doesn't just solve problems, but helps us become the kind of people who can live wisely and well on a finite, living planet.
+
+---
+
+[Previous Chapter: Ecosystem Stewardship](./10_ecosystem_stewardship.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Culture & Art](./12_culture_art.md)

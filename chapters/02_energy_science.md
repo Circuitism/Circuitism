@@ -36,3 +36,7 @@ From this perspective, our societal crises are no longer mysterious moral failin
 *   **Market Crashes & Revolutions:** These are massive, uncontrolled **arc flashes**. The potential difference between nodes becomes so great that the "insulation" of social norms and laws breaks down, and the stored energy discharges violently and destructively, resetting a portion of the circuit.
 
 By understanding these principles, we can move from being passive victims of our economy to being its active architects. We can stop measuring success by the amount of energy stored in a single node (profit) and start measuring it by the **overall health, coherence, and regenerative capacity of the entire circuit.** This is the scientific foundation of Circuitism.
+
+---
+
+[Previous Chapter: Dark Psychology](./01_dark_psychology.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Harmonic Math](./03_harmonic_math.md)

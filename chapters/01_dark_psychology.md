@@ -21,3 +21,7 @@ Circuitism, therefore, is not founded on a naive faith in the goodness of humani
 It does not seek to eliminate greed, fear, or the drive for power. It seeks to create an environment where those energies cannot be channeled into destructive hoarding and domination. By designing for radical transparency, where all value flows are visible; by engineering feedback loops that penalize accumulation beyond regenerative capacity; and by creating rules that make cooperation the most direct path to security and status, we can change the game.
 
 The goal is to integrate the shadow, not to pretend it doesn't exist. We must build a system that channels our deepest, most primal energies away from extraction and toward regeneration. We must architect a world where the most evolutionarily advantageous strategy is to contribute to the health and coherence of the whole circuit. This is the fundamental psychological shift that must underpin any meaningful change.
+
+---
+
+[Previous Chapter: Introduction](./00_introduction.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Energy Science](./02_energy_science.md)

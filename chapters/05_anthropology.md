@@ -31,3 +31,7 @@ If our ancestors had such sophisticated social technologies, where did we go wro
 3.  **The Imperial Mindset:** The combination of surplus and currency fueled the rise of empires. The logic of empire is inherently extractive. It sees the world not as a living system to be stewarded, but as a collection of resources to be conquered, controlled, and consumed. This mindset, which separates humanity from nature and the ruler from the ruled, is the direct ancestor of our current global economic system.
 
 By studying these anthropological patterns, we can see that our current crisis is not an inevitability. It is the result of a specific, relatively recent, and deeply flawed social technology. Circuitism is the conscious project of recovering the older, more resilient logic of the gift, the myth, and the ritual, and updating it for the 21st century. We are remembering what we have forgotten.
+
+---
+
+[Previous Chapter: Emergent Biology](./04_emergent_biology.md) | [Table of Contents](https://github.com/Circuitism/Circuitism/tree/main/chapters) | [Next Chapter: Sociology](./06_sociology.md)
