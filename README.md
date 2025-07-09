@@ -1,6 +1,6 @@
-# Circuitism: A Blueprint for a Regenerative Civilization
+# Circuitism: The Operating System for Civilization
 
-**"Engineering a Living, Balanced Economy"**
+**"A Blueprint for a Regenerative Civilization"**
 
 Circuitism is a new economic and civilizational operating system that treats all value—labor, capital, ecology, social trust, and attention—as energy moving through a living circuit. It posits that our most critical global crises, from ecological collapse to extreme inequality, are not moral failures but engineering failures. They are the predictable outcomes of an outdated economic architecture designed for extraction and hoarding.
 
